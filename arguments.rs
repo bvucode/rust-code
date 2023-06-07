@@ -5,11 +5,9 @@ fn main(){
     let mut text = String::new();
     let mut c = 0;
     for arg in cmd_line {
-        if c == 0 {
-            //pass
-        }else if c == 1 {
+        if c == 1 {
             * &mut text += &arg;
-        }else{
+        }else if c > 1 {
             * &mut text += &((" ".to_string()) + &arg);
         }
         c += 1;
