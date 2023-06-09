@@ -1,6 +1,6 @@
 # rust-apps
 
-helloworld.rs - Hello world!
+main.rs - Hello world!
 
 arguments.rs - arguments from command line
 
