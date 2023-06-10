@@ -2,7 +2,7 @@
 
 main.rs - Hello world!
 
-arguments.rs - arguments from command line
+arguments.rs - to read from command-line arguments
 
 read.rs - command line read
 
