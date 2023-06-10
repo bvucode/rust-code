@@ -1,4 +1,4 @@
-# rust-apps
+# rust-code
 
 helloworld.rs - Hello world!
 
