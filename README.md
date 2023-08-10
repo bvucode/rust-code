@@ -1,6 +1,7 @@
 # rust-code
 
 // Compile
+
 rustc args.rs && ./args hello-world
 
 helloworld.rs - Hello world!
