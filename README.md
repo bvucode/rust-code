@@ -2,7 +2,7 @@
 
 // Compile
 
-rustc helloworld.rs && ./args helloworld
+rustc helloworld.rs && ./helloworld
 
 helloworld.rs - Hello world!
 
