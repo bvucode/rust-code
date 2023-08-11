@@ -15,3 +15,5 @@ write.rs - write in console
 openfile.rs - open and print file in root directory of project
 
 openfileargument.rs - open and print file with argument
+
+hashmap.rs - like dictionary in Python
